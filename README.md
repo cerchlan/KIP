@@ -1,2 +1,0 @@
-# KIP
-Knowledge is Powerful 
