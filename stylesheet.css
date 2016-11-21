@@ -92,6 +92,15 @@ p {
 	left: 700px;
 	width: 80px;
 	height: 130px;
+	opacity: 0.8;
+}
+
+#character:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
 }
 
 
@@ -103,12 +112,28 @@ p {
 	height: 130px;
 }
 
+#complicated:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
+}
+
 #eradication {
 	position: absolute;
 	bottom: 100px;
 	left: 900px; 
 	width: 80px;
 	height: 130px;
+}
+
+#eradication:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
 }
 
 #sapiens {
@@ -119,6 +144,14 @@ p {
 	height: 130px;
 }
 
+#sapiens:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
+}
+
 #success {
 	position: absolute;
 	bottom: 100px;
@@ -127,6 +160,13 @@ p {
 	height: 130px;
 }
 
+#success:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
+}
 
 #gates {
 	max-width: 500px; 
@@ -176,12 +216,28 @@ p {
 	height: 130px;
 }
 
+#franklin:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
+}
+
 #superintelligence {
 	position: absolute;
 	bottom: 100px;
 	left: 160px; 
 	width: 80px;
 	height: 130px;
+}
+
+#superintelligence:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
 }
 
 #zero {
@@ -192,6 +248,14 @@ p {
 	height: 130px;
 }
 
+#zero:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
+}
+
 #catherine {
 	position: absolute;
 	bottom: 100px;
@@ -200,12 +264,28 @@ p {
 	height: 130px;
 }
 
+#catherine:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
+}
+
 #einstein {
 	position: absolute;
 	bottom: 100px;
 	left: 460px; 
 	width: 80px;
 	height: 130px;
+}
+
+#einstein:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
 }
 
 
@@ -256,7 +336,14 @@ p {
 	left: 650px;
 	width: 80px;
 	height: 130px;
+}
 
+#discover:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
 }
 
 #lean {
@@ -267,12 +354,28 @@ p {
 	height: 130px;
 }
 
+#lean:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
+}
+
 #happy {
 	position: absolute;
 	bottom: 100px;
 	left: 850px;
 	width: 80px;
 	height: 130px;
+}
+
+#happy:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
 }
 
 #business {
@@ -283,12 +386,28 @@ p {
 	height: 130px;
 }
 
+#business:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
+}
+
 #harry {
 	position: absolute;
 	bottom: 100px;
 	left: 1050px;
 	width: 80px;
 	height: 130px;
+}
+
+#harry:hover {
+	width: 110px;
+	height: 150px;
+	opacity: 1;
+	margin-top: 130px;
+	z-index: 99;
 }
 
 
