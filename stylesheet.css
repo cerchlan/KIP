@@ -18,9 +18,15 @@ html, body {
 	overflow: hidden;
 }
 
+.nav {
+  display: inline-block;
+  text-align; center
+  
+
 ul {
 	padding: 30px;
 	color: white;
+	
 }
 
 li {
