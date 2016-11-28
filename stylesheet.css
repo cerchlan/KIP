@@ -435,7 +435,7 @@ p {
   width: 200px;
   transition: all 0.8s;
   cursor: pointer;
-  margin: 5px;
+  margin-bottom: 10px;
   position: absolute;
   top: 560px;
   left: 540px;
